@@ -14,6 +14,7 @@ async function add()
     result = await addString(result,'C');
     console.log(result);
     console.log("successfully executed");
+    console.log("need to do more");
 }
 
 add();
